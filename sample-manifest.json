@@ -1,0 +1,12 @@
+{
+  "export_job_id": "13756fd5-f567-40d2-ba6a-f409f3a01779",
+  "id_short": 681021,
+  "published_at": "2026-04-13T07:19:19Z",
+  "repo_name": "tech-ready-restaurants-in-the-minneapolis-st-paul-bloomington-metro-area-mn-wi-us-sample-681021",
+  "sample_asset_name": "beamstation_681021_restaurants-us-minneapolisstpaulbloomingtonmnwi_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/681021/beamstation_681021_restaurants-us-minneapolisstpaulbloomingtonmnwi_SAMPLE_DIST.csv",
+  "sample_records": 2,
+  "sample_sha256": "0dedfc8a954763bd4d627f9db5baf0ebd117e796ed454142c7e60ace62d1f674",
+  "sample_size_bytes": 23342,
+  "total_records": 26
+}
