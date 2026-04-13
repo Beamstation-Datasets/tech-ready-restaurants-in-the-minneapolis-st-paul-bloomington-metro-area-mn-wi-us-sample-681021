@@ -1,0 +1,22 @@
+{
+  "base_price": 3495,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "sales",
+  "config_description": "The \"Low Hanging Fruit.\" They have the budget but need the tech.\n\nRestaurants well-established (Beam Score > 70) and performing (sentiments last 30 days > 10 that lack online reservation AND online ordering\n\nReady for technology adoption and modernization.",
+  "config_name": "Tech-Ready Restaurants in the Minneapolis-St. Paul-Bloomington Metro Area, MN-WI, US",
+  "export_job_id": "13756fd5-f567-40d2-ba6a-f409f3a01779",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 681021,
+  "location_name": "Minneapolis-St. Paul-Bloomington, MN-WI",
+  "location_type": "metro",
+  "repo_name": "tech-ready-restaurants-in-the-minneapolis-st-paul-bloomington-metro-area-mn-wi-us-sample-681021",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/681021/beamstation_681021_restaurants-us-minneapolisstpaulbloomingtonmnwi_SAMPLE_DIST.csv",
+  "sample_pct": 7.69,
+  "sample_records": 2,
+  "sample_sha256": "0dedfc8a954763bd4d627f9db5baf0ebd117e796ed454142c7e60ace62d1f674",
+  "sample_size_bytes": 23342,
+  "total_records": 26,
+  "updated_at": "2026-04-08T07:14:38.245684+00:00"
+}
