@@ -9,9 +9,9 @@
 | Dataset ID | `681021` |
 | Location | Minneapolis-St. Paul-Bloomington, MN-WI |
 | Category | Restaurants |
-| Full dataset size | 17 records |
-| Free sample size | 1 records (5.88%) |
-| Last export | 2026-04-15T10:41:56.142100+00:00 |
+| Full dataset size | 5 records |
+| Free sample size | 1 records (20.0%) |
+| Last export | 2026-04-22T18:36:34.233740+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/tech-ready-restaurants-in-the-minneapolis-st-paul-bloomington-metro-area-mn-wi-us-sample-681021/releases/download/sample-latest/beamstation_681021_restaurants-us-minneapolisstpaulbloomingtonmnwi_SAMPLE_DIST.csv) |
 
 ## What is in this sample
