@@ -1,6 +1,6 @@
 # Tech-Ready Restaurants in the Minneapolis-St. Paul-Bloomington Metro Area, MN-WI, US
 
-> Free BeamStation sample export with 1 rows and masked direct-contact fields.
+> Free BeamStation sample export with 12 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `681021` |
 | Location | Minneapolis-St. Paul-Bloomington, MN-WI |
 | Category | Restaurants |
-| Full dataset size | 5 records |
-| Free sample size | 1 records (20.0%) |
-| Last export | 2026-04-22T18:36:34.233740+00:00 |
+| Full dataset size | 127 records |
+| Free sample size | 12 records (9.45%) |
+| Last export | 2026-04-29T17:54:10.774311+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/tech-ready-restaurants-in-the-minneapolis-st-paul-bloomington-metro-area-mn-wi-us-sample-681021/releases/download/sample-latest/beamstation_681021_restaurants-us-minneapolisstpaulbloomingtonmnwi_SAMPLE_DIST.csv) |
 
 ## What is in this sample
